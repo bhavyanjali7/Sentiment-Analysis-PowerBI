@@ -59,10 +59,8 @@ Sentiment-Analysis-PowerBI
 ├ screenshots
 └ README.md
 
-## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
 
 ## Author
+Bhavyanjali
 
-Your Name
